@@ -1,13 +1,34 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+<span id="a">Mohamed@imthiyaj</span>:<span id="b">~</span><span id="c">$</span> cd imthiyaj/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
+<span id="a">Mohamed@imthiyaj</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Me.txt<br/><br/>
+My favorite code quote, "<span id="k">The Mind is Everything, What do you Think you Become</span>". <!-- sjkfhskjf -->
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+Hey There! This is Mohamed Imthiyaj<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am an "<span id="k">Ethical Hacker.Application Security Researcher,CTF Player</span>"</p>
+<p>I am doing my final year.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>I am Create one Project for Web Application Recon Tool using HTML, PHP, SQL<a href="https://www.youtube.com/watch?v=Ud1-ODmUxzY" target="_blank"> Click here</a>. <br>This Tools do <br>&emsp;Information Gathering<br>&emsp;&emsp;ICMP Ping
+&emsp;&emsp;Whois Lookup
+&emsp;&emsp;Google Hacking
+&emsp;&emsp;Find Subdomains
+&emsp;&emsp;DNS Zone Transfer
+&emsp;&emsp;Subdomain Takeover
+&emsp;&emsp;technologies finder<br><br>&emsp;Web Application Testing<br>&emsp;&emsp;URL Fuzzer
+&emsp;&emsp;WAF Checking
+&emsp;&emsp;Find Parameter
+&emsp;&emsp;WordPress Scanner<br><br>&emsp;Port Scanning<br>&emsp;&emsp;TCP Scan
+&emsp;&emsp;UDP Scan<br><br>&emsp;Exploit Helpers<br>&emsp;&emsp;SQLi
+&emsp;&emsp;XSS
+&emsp;&emsp;LFI
+&emsp;&emsp;SSRF
+&emsp;&emsp;Open Redirect
+&emsp;&emsp;SSTI<br></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>Certificate</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> Prepare for the CompTIA Network+ (N10-007) Certification - <a href="https://drive.google.com/file/d/1jLJBHmYbyHwiUxePav92u7gFQi364W_3/view?usp=sharing" target="_blank">Link</a><br>
+Programming Foundations: Web Security - <a href="https://drive.google.com/file/d/1RL9Ps5PGJBKrEuarHGoA_bdDKvC4qtL-/view?usp=sharing" target="_blank">Link</a><br>
+Cyber Security White Hacker Lev#1 Training Course - <a href="https://drive.google.com/file/d/16YXReMaCD3XHzFbYLsL0XqKOybFPE9EZ/view?usp=sharing" target="_blank">Link</a><br>
+Practical Ethical Hacking - <a href="https://drive.google.com/file/d/1I6lMdetf5RVsQbr7LRDKxZvWyK4cUoor/view?usp=sharing" target="_blank">Link</a>
+</p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="imthiyajmohamed@gmail.com"> imthiyajmohamed@gmail.com</a>.
 
 <p>Cheers!</p>
+
+<span id="a">Mohamed@imthiyaj</span>:<span id="b">~</span><span id="c">$</span> <!-- kjsdfhkjdhsfkjdshfkj -->Exit<br/>
